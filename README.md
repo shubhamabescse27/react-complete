@@ -1,35 +1,50 @@
 React.js Learning Journey 🚀
 
-Welcome to my React.js learning repository!
+This repository contains my React.js learning journey with topic-wise code examples, practice exercises and mini projects.
 
-This repository contains my topic-wise practice code and examples while learning React.js.
+📚 Topics Covered
 
-Topics Covered
+No.| Topic
+01| Folder Structure
+02| Components
+03| Projects
+04| Card Project
+05| CSS
+06| Tailwind CSS
+07| UI Project
+08| Functions
+09| useState
+10| Advanced useState
+11| Form Handling
+12| Two-Way Binding
+13| Notes App
+14| Local Storage
+15| API Calling
+16| useEffect
+17| Gallery Project
+18| React Router DOM
+19| Advanced Routing
+20| Bonus Topics
+21| Context API
 
-- React Components and JSX
-- Props and State
-- useState Hook
-- useEffect Hook
-- Event Handling
-- Conditional Rendering
-- Lists and Keys
-- Context API
-- React Router
-- API Integration
+🛠️ Technologies
 
-Purpose
-
-The goal of this repository is to document my learning journey, strengthen my React fundamentals, and improve my frontend development skills.
-
-Technologies Used
-
+- React.js
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-- React.js
+- Tailwind CSS
+- React Router DOM
 
-What's Next?
+🎯 Goal
 
-Building real-world frontend projects and exploring more advanced React concepts.
+To strengthen my frontend development skills through consistent practice and hands-on learning.
 
-Learning never stops! 🚀
+🚀 What's Next?
+
+- Build real-world React projects
+- Improve frontend development skills
+- Learn advanced concepts
+- Prepare for frontend developer internships
+
+Learning never stops!
